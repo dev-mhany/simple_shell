@@ -28,11 +28,6 @@
 #define CONVERT_UNSIGNED 2
 
 extern char **environ;
-typedef struct passinfo
-{
-} info_t;
-void populate_env_list(info_t *info);
-int hsh(info_t *info, char **env);
 
 /**
  * struct liststr - singly linked list
