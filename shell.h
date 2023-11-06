@@ -28,8 +28,9 @@
 #define CONVERT_UNSIGNED 2
 
 extern char **environ;
-void _error_puts(char *str);
-int _error_putchar(char c);
+typedef struct passinfo
+{
+} info_t;
 void populate_env_list(info_t *info);
 int hsh(info_t *info, char **env);
 
