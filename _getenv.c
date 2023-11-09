@@ -5,6 +5,7 @@
  * @info: Structure containing potential arguments. Used to maintain
  * @name: env var name
  *
+ * 
  * Return: the value
  */
 char *_getenv(info_t *info, const char *name)
