@@ -5,7 +5,7 @@
  * @ptr: pointer to old block
  * @old_size: byte size of previous block
  * @new_size: byte size of new block
- *
+ *wm
  * Return: pointer to new block, or NULL on failure
  */
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
