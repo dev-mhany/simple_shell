@@ -3,7 +3,7 @@
 /**
  * get_input - gets a line minus the newline
  * @info: parameter struct
- *
+ *wm
  * Return: bytes read
  */
 ssize_t get_input(info_t *info)
