@@ -4,6 +4,7 @@
  * set_info - initializes info_t struct
  * @info: struct address
  * @av: argument vector
+ * wm
  */
 void set_info(info_t *info, char **av)
 {
