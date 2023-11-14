@@ -3,7 +3,7 @@
 /**
  * replace_vars - replaces vars in the tokenized string
  * @info: the parameter struct
- *
+ *wm
  * Return: 1 if replaced, 0 otherwise
  */
 int replace_vars(info_t *info)
