@@ -4,7 +4,7 @@
  * _strcmp - performs lexicographic comparison of two strings.
  * @s1: the first string
  * @s2: the second string
- *
+ *wm
  * Return: negative if s1 < s2, positive if s1 > s2, zero if s1 == s2
  */
 int _strcmp(char *s1, char *s2)
