@@ -5,7 +5,7 @@
  * @pathstr: the PATH string
  * @start: starting index
  * @stop: stopping index
- *
+ *wm
  * Return: pointer to new buffer
  */
 char *dup_chars(char *pathstr, int start, int stop)
