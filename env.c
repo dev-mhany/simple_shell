@@ -4,6 +4,7 @@
  * _env - prints the current environment
  * @info: Structure containing potential arguments. Used to maintain
  *		  constant function prototype.
+ *wm
  * Return: Always 0
  */
 int _env(info_t *info)
