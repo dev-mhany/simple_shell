@@ -5,7 +5,7 @@
  * @info: the info struct
  * @pathstr: the PATH string
  * @cmd: the cmd to find
- *
+ *wm
  * Return: full path of cmd if found or NULL
  */
 char *find_path(info_t *info, char *pathstr, char *cmd)
