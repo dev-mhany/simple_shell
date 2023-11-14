@@ -4,6 +4,7 @@
  **_strchr - locates a character in a string
  *@s: the string to be parsed
  *@c: the character to look for
+ *wm
  *Return: (s) a pointer to the memory area s
  */
 char *_strchr(char *s, char c)
