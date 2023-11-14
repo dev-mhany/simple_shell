@@ -5,7 +5,7 @@
  * @info: parameter struct
  * @buf: buffer
  * @i: size
- *
+ *wm
  * Return: r
  */
 ssize_t read_buf(info_t *info, char *buf, size_t *i)
