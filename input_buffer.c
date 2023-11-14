@@ -5,7 +5,7 @@
  * @info: parameter struct
  * @buf: address of buffer
  * @len: address of len var
- *
+ *wm
  * Return: bytes read
  */
 ssize_t input_buffer(info_t *info, char **buf, size_t *len)
