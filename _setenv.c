@@ -5,6 +5,7 @@
  *			 or modify an existing one
  * @info: Structure containing potential arguments. Used to maintain
  *		constant function prototype.
+ *wm
  *  Return: Always 0
  */
 int _mysetenv(info_t *info)
