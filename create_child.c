@@ -3,7 +3,7 @@
 /**
  * create_child - forks a an exec thread to run cmd
  * @info: the parameter & return info struct
- *
+ *wm
  * Return: void
  */
 void create_child(info_t *info)
