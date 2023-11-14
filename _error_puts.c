@@ -4,6 +4,7 @@
  *_error_puts - prints an input string
  * @str: the string to be printed
  *
+ * wm
  * Return: Nothing
  */
 void _error_puts(char *str)
