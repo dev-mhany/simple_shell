@@ -4,7 +4,7 @@
  * replace_string - replaces string
  * @old: address of old string
  * @new: new string
- *
+ *wm
  * Return: 1 if replaced, 0 otherwise
  */
 int replace_string(char **old, char *new)
