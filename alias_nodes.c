@@ -4,7 +4,7 @@
  * get_node_index - gets the index of a node
  * @head: pointer to list head
  * @node: pointer to the node
- *
+ *wm
  * alias_nodes.c*
  * Return: index of node or -1
  */
