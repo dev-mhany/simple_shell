@@ -3,7 +3,7 @@
 /**
  * find_cmd - finds a command in PATH
  * @info: the parameter & return info struct
- *
+ *wm
  * Return: void
  */
 void find_cmd(info_t *info)
