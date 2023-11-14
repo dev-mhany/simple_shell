@@ -4,7 +4,7 @@
  * print_decimal - function prints a decimal (integer) number (base 10)
  * @input: the input
  * @fd: the filedescriptor to write to
- *
+ *wm
  * Return: number of characters printed
  */
 int print_decimal(int input, int fd)
