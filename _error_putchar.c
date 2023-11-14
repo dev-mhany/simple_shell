@@ -4,6 +4,7 @@
  * _error_putchar - writes the character c to stderr
  * @c: The character to print
  *
+ * wm
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
