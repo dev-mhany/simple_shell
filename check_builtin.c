@@ -3,7 +3,7 @@
 /**
  * check_builtin - finds a builtin command
  * @info: the parameter & return info struct
- *
+ *wm
  * check_builtin.c  *
  * Return: -1 if builtin not found,
  *			0 if builtin executed successfully,
