@@ -4,7 +4,7 @@
  * unset_alias - sets alias to string
  * @info: parameter struct
  * @str: the string alias
- *
+ *wm
  * 0x16. C - Simple Shell
  * Return: Always 0 on success, 1 on error
  */
