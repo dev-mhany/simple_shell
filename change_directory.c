@@ -4,6 +4,7 @@
  * _change_dir - changes the current directory of the process
  * @info: Structure containing potential arguments. Used to maintain
  *		  constant function prototype.
+ *change_directory.c
  *  Return: Always 0
  */
 int _change_dir(info_t *info)

@@ -3,6 +3,7 @@
 /**
  * comment_handling - function replaces first instance of '#' with '\0'
  * @buf: address of the string to modify
+ *comment_handling.c
  *
  * Return: Always 0;
  */

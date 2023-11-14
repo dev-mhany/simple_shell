@@ -4,6 +4,7 @@
  * check_builtin - finds a builtin command
  * @info: the parameter & return info struct
  *
+ * check_builtin.c  *
  * Return: -1 if builtin not found,
  *			0 if builtin executed successfully,
  *			1 if builtin found but not successful,

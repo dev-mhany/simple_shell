@@ -5,6 +5,7 @@
  * @info: parameter struct
  * @str: the string alias
  *
+ * 0x16. C - Simple Shell
  * Return: Always 0 on success, 1 on error
  */
 int unset_alias(info_t *info, char *str)
@@ -27,7 +28,7 @@ int unset_alias(info_t *info, char *str)
  * set_alias - sets alias to string
  * @info: parameter struct
  * @str: the string alias
- *
+ **
  * Return: Always 0 on success, 1 on error
  */
 int set_alias(info_t *info, char *str)
