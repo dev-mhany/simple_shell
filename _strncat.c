@@ -5,6 +5,7 @@
  *@dest: the first string
  *@src: the second string
  *@n: the amount of bytes to be maximally used
+ *wm
  *Return: the concatenated string
  */
 char *_strncat(char *dest, char *src, int n)
