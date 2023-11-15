@@ -7,7 +7,7 @@
  * @p: address of current position in buf
  * @i: starting position in buf
  * @len: length of buf
- *check_next.c  
+ *check_next.c
  *wm
  * Return: Void
  */
