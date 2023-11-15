@@ -3,7 +3,6 @@
 /**
  * clear_info.c
  * clear_info - initializes info_t struct
- * wm
  * @info: struct address
  */
 void clear_info(info_t *info)

@@ -1,7 +1,6 @@
 #include "shell.h"
 
 /**
- * wm
  * free_string_list - frees a string of strings
  * @pp: string of strings
  */
